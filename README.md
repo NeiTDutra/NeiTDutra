@@ -17,7 +17,7 @@ Here are some things that are happening:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiTDutra&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiTDutra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiTDutra&layout=compact&theme=onedark)
 
 Credits [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 
