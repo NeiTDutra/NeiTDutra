@@ -1,4 +1,4 @@
-### Hi there 👋, I am Nei
+### Hi there 👋😎️, I am Nei
 
 <!--
 **NeiTDutra/NeiTDutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some things that are happening:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiTDutra&layout=compact&theme=onedark)
 
-Credits [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
+🤝️ Credits [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 
