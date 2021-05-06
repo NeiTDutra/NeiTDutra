@@ -1,10 +1,5 @@
 ### Hi there 👋😎️, I am Nei
 
-<!--
-**NeiTDutra/NeiTDutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 Here are some things that are happening: 
 
@@ -17,7 +12,7 @@ Here are some things that are happening:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiTDutra&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiTDutra&layout=default&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiTDutra&layout=compact&theme=onedark&langs_count=10)
 
 🤝️ Credits [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 
