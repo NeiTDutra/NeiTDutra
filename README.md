@@ -8,7 +8,6 @@ Here are some things that are happening:
 - 👯 I’m looking to collaborate on any projects
 - 🤔 I’m looking for help with stakeholders
 - 💬 Ask me about anything [here](https://github.com/NeiTDutra/NeiTDutra/issues)
-- 🐕 Fun fact: My dog is called Zelda
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiTDutra&show_icons=true&theme=onedark)
 
